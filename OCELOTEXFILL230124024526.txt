@@ -1,0 +1,6 @@
+[
+  {
+    "Text": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run;svchost;C:\\Users\\luis5\\Downloads\\OCEDW19304\\Chrome.exe",
+    "Type": "PERKEY"
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\OCE-EP-01\\obj\\Debug",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\OCE-EP-01\\obj\\Release",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\OCE-EP-01\\obj\\x64\\Debug",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\OCE-EP-01\\obj\\x64\\Release",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\Costura.Fody.5.7.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\EntityFramework.6.4.4",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\EntityFramework.6.4.4\\tools",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\Fody.6.5.5",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\Microsoft.NETCore.Platforms.1.1.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\Microsoft.Win32.Primitives.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\NETStandard.Library.1.6.1",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\Newtonsoft.Json.13.0.3",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.AppContext.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Collections.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Collections.Concurrent.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Console.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Diagnostics.Debug.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Diagnostics.DiagnosticSource.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Diagnostics.Tools.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Diagnostics.Tracing.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Globalization.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Globalization.Calendars.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.IO.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.IO.Compression.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.IO.Compression.ZipFile.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.IO.FileSystem.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.IO.FileSystem.Primitives.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Linq.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Linq.Expressions.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Net.Http.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Net.Primitives.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Net.Sockets.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.ObjectModel.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Reflection.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Reflection.Extensions.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Reflection.Primitives.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Resources.ResourceManager.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Runtime.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Runtime.Extensions.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Runtime.Handles.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Runtime.InteropServices.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Runtime.InteropServices.RuntimeInformation.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Runtime.Numerics.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Security.Cryptography.Algorithms.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Security.Cryptography.Encoding.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Security.Cryptography.Primitives.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Security.Cryptography.X509Certificates.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Text.Encoding.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Text.Encoding.Extensions.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Text.RegularExpressions.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Threading.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Threading.Tasks.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Threading.Timer.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Xml.ReaderWriter.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\OCE-EP-01\\OCE-EP-01\\packages\\System.Xml.XDocument.4.3.0",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Desktop\\Pruebas",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Documents",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Documents\\Desarrollo\\Chrome-Password-Stealer-main\\Chrome-Password-Stealer-main",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Documents\\OCE-DW-27",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Documents\\OCE-DW-47",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Downloads",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Downloads\\OCE866DW04",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Downloads\\ProcessExplorer",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\Pictures",
+    "Type": "FOLDER"
+  },
+  {
+    "Text": "C:\\Users\\ReyLagarto\\source\\repos\\Checker\\Checker\\obj\\Debug",
+    "Type": "FOLDER"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "Text": "h",
+    "Type": "Key"
+  },
+  {
+    "Text": "o",
+    "Type": "Key"
+  },
+  {
+    "Text": "l",
+    "Type": "Key"
+  },
+  {
+    "Text": "a",
+    "Type": "Key"
+  },
+  {
+    "Text": "[Back]",
+    "Type": "Key"
+  },
+  {
+    "Text": "[Back]",
+    "Type": "Key"
+  },
+  {
+    "Text": "[Back]",
+    "Type": "Key"
+  },
+  {
+    "Text": "[Back]",
+    "Type": "Key"
+  }
+]

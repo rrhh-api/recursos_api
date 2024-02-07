@@ -1,0 +1,214 @@
+[
+  {
+    "Text": "[*] HKCU: No vulnerable",
+    "Type": "HKCU"
+  },
+  {
+    "Text": "[*] HKLM: No vulnerable",
+    "Type": "HKLM"
+  },
+  {
+    "Text": "terdvn1113",
+    "Type": "Hostname"
+  },
+  {
+    "Text": "10.190.113.89",
+    "Type": "IP"
+  },
+  {
+    "Text": "2.2.2.157",
+    "Type": "IP"
+  },
+  {
+    "Text": "::1",
+    "Type": "IP"
+  },
+  {
+    "Text": "C:\\Oracle\\client\\product\\12.2.0\\client_1;C:\\Oracle\\client\\product\\12.2.0\\client_1\\bin;C:\\app\\client\\TERADM\\product\\12.2.0\\client_1;C:\\app\\client\\TERADM\\product\\12.2.0\\client_1\\bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files (x86)\\Micro Focus\\Unified Functional Testing\\bin;C:\\Program Files (x86)\\Citrix\\HDX\\bin\\;C:\\Program Files\\Citrix\\HDX\\bin\\;c:\\oracle;c:\\oracle\\bin;",
+    "Type": "Path"
+  },
+  {
+    "Text": "jvmhook",
+    "Type": "_classload_hook"
+  },
+  {
+    "Text": "6",
+    "Type": "PROCESSOR_LEVEL"
+  },
+  {
+    "Text": "TERNIUM",
+    "Type": "USERDOMAIN"
+  },
+  {
+    "Text": "x86",
+    "Type": "PROCESSOR_ARCHITECTURE"
+  },
+  {
+    "Text": "C:\\Program Files",
+    "Type": "ProgramW6432"
+  },
+  {
+    "Text": "C:\\Windows\\System32\\Drivers\\DriverData",
+    "Type": "DriverData"
+  },
+  {
+    "Text": "-Xbootclasspath/a:\"C:\\Program Files (x86)\\Micro Focus\\Unified Functional Testing\\bin\\java_shared\\classes\\jasmine.jar\"",
+    "Type": "IBM_JAVA_OPTIONS"
+  },
+  {
+    "Text": "C:\\WINDOWS",
+    "Type": "windir"
+  },
+  {
+    "Text": "$P$G",
+    "Type": "PROMPT"
+  },
+  {
+    "Text": "C:\\Program Files\\Common Files",
+    "Type": "CommonProgramW6432"
+  },
+  {
+    "Text": "C:\\Oracle",
+    "Type": "TNS_ADMIN"
+  },
+  {
+    "Text": "C:\\WINDOWS\\TEMP",
+    "Type": "TMP"
+  },
+  {
+    "Text": "C:\\Users\\Default",
+    "Type": "USERPROFILE"
+  },
+  {
+    "Text": "C:\\Program Files (x86)",
+    "Type": "ProgramFiles"
+  },
+  {
+    "Text": "C:\\WINDOWS\\TEMP",
+    "Type": "TEMP"
+  },
+  {
+    "Text": "C:\\Program Files (x86)\\Common Files",
+    "Type": "CommonProgramFiles(x86)"
+  },
+  {
+    "Text": "TERNIUM.TECHINT.NET",
+    "Type": "USERDNSDOMAIN"
+  },
+  {
+    "Text": ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC",
+    "Type": "PATHEXT"
+  },
+  {
+    "Text": "AMD64",
+    "Type": "PROCESSOR_ARCHITEW6432"
+  },
+  {
+    "Text": "C.LU1GA",
+    "Type": "USERNAME"
+  },
+  {
+    "Text": "4",
+    "Type": "NUMBER_OF_PROCESSORS"
+  },
+  {
+    "Text": "Intel64 Family 6 Model 106 Stepping 6, GenuineIntel",
+    "Type": "PROCESSOR_IDENTIFIER"
+  },
+  {
+    "Text": "C:\\WINDOWS",
+    "Type": "SystemRoot"
+  },
+  {
+    "Text": "C:\\WINDOWS\\system32\\cmd.exe",
+    "Type": "ComSpec"
+  },
+  {
+    "Text": "C:\\Program Files (x86)\\Micro Focus\\Unified Functional Testing\\",
+    "Type": "ST_INSTALL_PATH"
+  },
+  {
+    "Text": "C:\\Program Files (x86)",
+    "Type": "ProgramFiles(x86)"
+  },
+  {
+    "Text": "1",
+    "Type": "MSJAVA_ENABLE_MONITORS"
+  },
+  {
+    "Text": "C:\\Program Files (x86)\\Common Files",
+    "Type": "CommonProgramFiles"
+  },
+  {
+    "Text": "TERDVN1113",
+    "Type": "COMPUTERNAME"
+  },
+  {
+    "Text": "C:\\Users\\Public",
+    "Type": "PUBLIC"
+  },
+  {
+    "Text": "6a06",
+    "Type": "PROCESSOR_REVISION"
+  },
+  {
+    "Text": "-agentlib:jvmhook",
+    "Type": "JAVA_TOOL_OPTIONS"
+  },
+  {
+    "Text": "C:\\ProgramData",
+    "Type": "ALLUSERSPROFILE"
+  },
+  {
+    "Text": "C:",
+    "Type": "SystemDrive"
+  },
+  {
+    "Text": "Windows_NT",
+    "Type": "OS"
+  },
+  {
+    "Text": "%ProgramFiles%\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules;C:\\Program Files\\Citrix\\Telemetry Service\\;C:\\Program Files (x86)\\Microsoft Azure Information Protection\\Powershell",
+    "Type": "PSModulePath"
+  },
+  {
+    "Text": "1",
+    "Type": "MOZ_DISABLE_CONTENT_SANDBOX"
+  },
+  {
+    "Text": "C:\\ProgramData",
+    "Type": "ProgramData"
+  },
+  {
+    "Text": "-Xrunjvmhook -Xbootclasspath/a:\"C:\\Program Files (x86)\\Micro Focus\\Unified Functional Testing\\bin\\java_shared\\classes\\jasmine.jar\"",
+    "Type": "_JAVA_OPTIONS"
+  },
+  {
+    "Text": "\r\nUSER INFORMATION\r\n----------------\r\n\r\nUser Name       SID                                             \r\n=============== ================================================\r\nternium\\c.lu1ga S-1-5-21-1605481322-1837799905-1162172398-353758\r\n\r\n\r\nGROUP INFORMATION\r\n-----------------\r\n\r\nGroup Name                                                             Type             SID                                              Attributes                                                     \r\n====================================================================== ================ ================================================ ===============================================================\r\nEveryone                                                               Well-known group S-1-1-0                                          Mandatory group, Enabled by default, Enabled group             \r\nTERDVN1113\\FSLogix ODFC Include List                                   Alias            S-1-5-21-1789619812-465845316-2270297247-1016    Mandatory group, Enabled by default, Enabled group             \r\nTERDVN1113\\FSLogix Profile Include List                                Alias            S-1-5-21-1789619812-465845316-2270297247-1014    Mandatory group, Enabled by default, Enabled group             \r\nBUILTIN\\Users                                                          Alias            S-1-5-32-545                                     Mandatory group, Enabled by default, Enabled group             \r\nBUILTIN\\Administrators                                                 Alias            S-1-5-32-544                                     Mandatory group, Enabled by default, Enabled group, Group owner\r\nNT AUTHORITY\\NETWORK                                                   Well-known group S-1-5-2                                          Mandatory group, Enabled by default, Enabled group             \r\nNT AUTHORITY\\Authenticated Users                                       Well-known group S-1-5-11                                         Mandatory group, Enabled by default, Enabled group             \r\nNT AUTHORITY\\This Organization                                         Well-known group S-1-5-15                                         Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_TX_DOCS_HP_COLAB                                          Group            S-1-5-21-1605481322-1837799905-1162172398-144535 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GG_MX_FS_TERMXFILE1DatosMantenimientoTMYS_MO                   Group            S-1-5-21-1605481322-1837799905-1162172398-311816 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GG_AR_RS_vippowerbiRepBIPubPRDTERNIUMGestion_RO                Group            S-1-5-21-1605481322-1837799905-1162172398-266427 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GG_AR_FS_Terarsvcfs06SistemasRiskManagementProyMejoraCloVda_RO Group            S-1-5-21-1605481322-1837799905-1162172398-84670  Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GG_BR_RS_Terargespwrbi01RepBIManutencao_RO                     Group            S-1-5-21-1605481322-1837799905-1162172398-209941 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GG_AR_FS_Terarsvcfs06DatosSistControlMFotoSAPMttoYOperac_RO    Group            S-1-5-21-1605481322-1837799905-1162172398-156417 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_TX_DOCS_WSPROCESOS_READ                                   Group            S-1-5-21-1605481322-1837799905-1162172398-152136 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_MX_DOCS_CALIDAD_READ                                      Group            S-1-5-21-1605481322-1837799905-1162172398-189317 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GG_MX_PBI_Cloud_DEV_Industrial_MejoraContinua_RO               Group            S-1-5-21-1605481322-1837799905-1162172398-343466 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GG_MX_RDP_WS_TERND315743                                       Group            S-1-5-21-1605481322-1837799905-1162172398-260697 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_TX_DOCS_OPERACIONES_READ                                  Group            S-1-5-21-1605481322-1837799905-1162172398-151337 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GG_AR_FS_Terarsvcfs06DatosSistDesProdMDWPublico_RO             Group            S-1-5-21-1605481322-1837799905-1162172398-157138 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GG_CO_FS_Tercolsvcfls01SistemasMjodelCbioCapacitacion_RO       Group            S-1-5-21-1605481322-1837799905-1162172398-84813  Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_TX_DOCS_TESTINGSERVICES_READ                              Group            S-1-5-21-1605481322-1837799905-1162172398-137447 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GG_MX_FS_TERMXFILE1DatosMantenimientoTMYS_RO                   Group            S-1-5-21-1605481322-1837799905-1162172398-311817 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GG_MX_PBI_Cloud_PRD_Industrial_MejoraContinua_RO               Group            S-1-5-21-1605481322-1837799905-1162172398-344684 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_MX_DOCS_LESA_READ                                         Group            S-1-5-21-1605481322-1837799905-1162172398-156644 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_TX_DOCS_INTRA_READ                                        Group            S-1-5-21-1605481322-1837799905-1162172398-199166 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GG_MX_RDP_WS_TERND316702                                       Group            S-1-5-21-1605481322-1837799905-1162172398-349200 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_AR_DOCS_RRHHMATRICES_READ                                 Group            S-1-5-21-1605481322-1837799905-1162172398-151413 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_AR_DOCS_RRHHDF_READ                                       Group            S-1-5-21-1605481322-1837799905-1162172398-151408 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_TX_DOCS_PMO_READ                                          Group            S-1-5-21-1605481322-1837799905-1162172398-151376 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GG_AR_RS_Terargespwrbi01RepBIPublicacionesPRDRRHHTU_RO         Group            S-1-5-21-1605481322-1837799905-1162172398-306928 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_TX_DOCS_INTRABRAND_READ                                   Group            S-1-5-21-1605481322-1837799905-1162172398-199168 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GG_MX_PBI_Cloud_DEV_Industrial_MejoraContinua_MO               Group            S-1-5-21-1605481322-1837799905-1162172398-343465 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_AR_DOCS_DESARROLLO-PRODUCTOS_READ                         Group            S-1-5-21-1605481322-1837799905-1162172398-175395 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_TX_DOCS_CICE_READ                                         Group            S-1-5-21-1605481322-1837799905-1162172398-187600 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_AR_DOCS_SEGURIDADEHIGIENE_READ                            Group            S-1-5-21-1605481322-1837799905-1162172398-133574 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_MX_DOCS_SEGURIDADEHIGIENE_READ                            Group            S-1-5-21-1605481322-1837799905-1162172398-134534 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GU_MX_TerniumHRELearning_RO                                    Group            S-1-5-21-1605481322-1837799905-1162172398-19272  Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GU_MX_TerniumHRCapacitacion_RO                                 Group            S-1-5-21-1605481322-1837799905-1162172398-2705   Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GG_MX_FS_Termxfile1CalidadGestCalPlantaInfGestCalPlanta_RO     Group            S-1-5-21-1605481322-1837799905-1162172398-51952  Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_TX_DOCS_SEGURIDAD_READ                                    Group            S-1-5-21-1605481322-1837799905-1162172398-156700 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GG_AR_RS_Terargespwrbi01RepBIPublicacIndustrcoordindust_RO     Group            S-1-5-21-1605481322-1837799905-1162172398-231251 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_AR_DOCS_CATALOGO-PRODUCTO_READ                            Group            S-1-5-21-1605481322-1837799905-1162172398-150101 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_TX_DOCS_MC_READ                                           Group            S-1-5-21-1605481322-1837799905-1162172398-152155 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_US_DOCS_CALIDAD_READ                                      Group            S-1-5-21-1605481322-1837799905-1162172398-187374 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_AR_DOCS_SISTEMAS_READ                                     Group            S-1-5-21-1605481322-1837799905-1162172398-130039 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_MX_DOCS_CAPACITACION-OP_READ                              Group            S-1-5-21-1605481322-1837799905-1162172398-153094 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GU_MX_SPS_Sharepoint_Home_Readers                              Group            S-1-5-21-1605481322-1837799905-1162172398-16803  Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_TX_DOCS_HP_READ                                           Group            S-1-5-21-1605481322-1837799905-1162172398-142338 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GG_AR_Proxy_NormalUsers                                        Group            S-1-5-21-1605481322-1837799905-1162172398-8609   Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_BRA_DOCS_SEGURIDAEHIGIENE_READ                            Group            S-1-5-21-1605481322-1837799905-1162172398-187557 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GU_MX_TerniumSistemasCapacitacion_RO                           Group            S-1-5-21-1605481322-1837799905-1162172398-3365   Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_AR_DOCS_Compliance_READ                                   Group            S-1-5-21-1605481322-1837799905-1162172398-129790 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GG_TX_O365_Profile14                                           Group            S-1-5-21-1605481322-1837799905-1162172398-297570 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GG_TX_APL_PS_DomainUser                                        Group            S-1-5-21-1605481322-1837799905-1162172398-91199  Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_TX_DOCS_PROCESOSIT_READ                                   Group            S-1-5-21-1605481322-1837799905-1162172398-152942 Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GG_MX_VDI_Analista_NDV                                         Group            S-1-5-21-1605481322-1837799905-1162172398-93445  Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GU_AR_ClearCase_Users                                          Group            S-1-5-21-1605481322-1837799905-1162172398-21655  Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GG_MX_Termxfile1IndustrialMttoDocMttoMx_RO                     Group            S-1-5-21-1605481322-1837799905-1162172398-62642  Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\GU_MX_TerniumCalidadGdeCPGdeCPGuerreroPublico_RO               Group            S-1-5-21-1605481322-1837799905-1162172398-57263  Mandatory group, Enabled by default, Enabled group             \r\nTEIC\\GG_AAD_Users_Sync                                                 Group            S-1-5-21-1214440339-1078081533-725345543-130886  Mandatory group, Enabled by default, Enabled group             \r\nTEIC\\GU_Internet_Standard                                              Group            S-1-5-21-1214440339-1078081533-725345543-126982  Mandatory group, Enabled by default, Enabled group             \r\nTEIC\\GU_ISWVA_OT_Societies                                             Group            S-1-5-21-1214440339-1078081533-725345543-127082  Mandatory group, Enabled by default, Enabled group             \r\nAuthentication authority asserted identity                             Well-known group S-1-18-1                                         Mandatory group, Enabled by default, Enabled group             \r\nTERNIUM\\SITE_TX_DOCS_SOX_READ                                          Alias            S-1-5-21-1605481322-1837799905-1162172398-143469 Mandatory group, Enabled by default, Enabled group, Local Group\r\nTERNIUM\\SITE_AR_DOCS_Normativo_READ                                    Alias            S-1-5-21-1605481322-1837799905-1162172398-129787 Mandatory group, Enabled by default, Enabled group, Local Group\r\nTERNIUM\\SITE_TX_DOCS_RRHHDF_READ                                       Alias            S-1-5-21-1605481322-1837799905-1162172398-151400 Mandatory group, Enabled by default, Enabled group, Local Group\r\nTERNIUM\\SITE_TX_DOCS_ACAL_READ                                         Alias            S-1-5-21-1605481322-1837799905-1162172398-193733 Mandatory group, Enabled by default, Enabled group, Local Group\r\nTERNIUM\\GL_AR_FS_Nca_RO                                                Alias            S-1-5-21-1605481322-1837799905-1162172398-29363  Mandatory group, Enabled by default, Enabled group, Local Group\r\nTERNIUM\\SITE_TX_DOCS_RRHHMATRICES_READ                                 Alias            S-1-5-21-1605481322-1837799905-1162172398-151409 Mandatory group, Enabled by default, Enabled group, Local Group\r\nTERNIUM\\SITE_TX_DOCS_INDUSTRIAL_READ                                   Alias            S-1-5-21-1605481322-1837799905-1162172398-192705 Mandatory group, Enabled by default, Enabled group, Local Group\r\nTERNIUM\\SITE_BR_DOCS_Qualidade_READ                                    Alias            S-1-5-21-1605481322-1837799905-1162172398-187543 Mandatory group, Enabled by default, Enabled group, Local Group\r\nTERNIUM\\SITE_TX_DOCS_DIAF_READ                                         Alias            S-1-5-21-1605481322-1837799905-1162172398-137472 Mandatory group, Enabled by default, Enabled group, Local Group\r\nTERNIUM\\SITE_TX_DOCS_GSSO_READ                                         Alias            S-1-5-21-1605481322-1837799905-1162172398-204815 Mandatory group, Enabled by default, Enabled group, Local Group\r\nTERNIUM\\SITE_TX_DOCS_Calidad_READ                                      Alias            S-1-5-21-1605481322-1837799905-1162172398-142872 Mandatory group, Enabled by default, Enabled group, Local Group\r\nMandatory Label\\High Mandatory Level                                   Label            S-1-16-12288                                                                                                    \r\n\r\n\r\nPRIVILEGES INFORMATION\r\n----------------------\r\n\r\nPrivilege Name                            Description                                                        State  \r\n========================================= ================================================================== =======\r\nSeIncreaseQuotaPrivilege                  Adjust memory quotas for a process                                 Enabled\r\nSeSecurityPrivilege                       Manage auditing and security log                                   Enabled\r\nSeTakeOwnershipPrivilege                  Take ownership of files or other objects                           Enabled\r\nSeLoadDriverPrivilege                     Load and unload device drivers                                     Enabled\r\nSeSystemProfilePrivilege                  Profile system performance                                         Enabled\r\nSeSystemtimePrivilege                     Change the system time                                             Enabled\r\nSeProfileSingleProcessPrivilege           Profile single process                                             Enabled\r\nSeIncreaseBasePriorityPrivilege           Increase scheduling priority                                       Enabled\r\nSeCreatePagefilePrivilege                 Create a pagefile                                                  Enabled\r\nSeBackupPrivilege                         Back up files and directories                                      Enabled\r\nSeRestorePrivilege                        Restore files and directories                                      Enabled\r\nSeShutdownPrivilege                       Shut down the system                                               Enabled\r\nSeDebugPrivilege                          Debug programs                                                     Enabled\r\nSeSystemEnvironmentPrivilege              Modify firmware environment values                                 Enabled\r\nSeChangeNotifyPrivilege                   Bypass traverse checking                                           Enabled\r\nSeRemoteShutdownPrivilege                 Force shutdown from a remote system                                Enabled\r\nSeUndockPrivilege                         Remove computer from docking station                               Enabled\r\nSeManageVolumePrivilege                   Perform volume maintenance tasks                                   Enabled\r\nSeImpersonatePrivilege                    Impersonate a client after authentication                          Enabled\r\nSeCreateGlobalPrivilege                   Create global objects                                              Enabled\r\nSeIncreaseWorkingSetPrivilege             Increase a process working set                                     Enabled\r\nSeTimeZonePrivilege                       Change the time zone                                               Enabled\r\nSeCreateSymbolicLinkPrivilege             Create symbolic links                                              Enabled\r\nSeDelegateSessionUserImpersonatePrivilege Obtain an impersonation token for another user in the same session Enabled\r\n\r\n",
+    "Type": "whoami /all"
+  },
+  {
+    "Text": "\r\nUser accounts for \\\\\r\n\r\n-------------------------------------------------------------------------------\r\nAdministrator            DefaultAccount           Guest                    \r\nTERADM                   WDAGUtilityAccount       \r\nThe command completed with one or more errors.\r\n\r\n",
+    "Type": "net user"
+  },
+  {
+    "Text": "The request will be processed at a domain controller for domain ternium.techint.net.\r\n\r\n",
+    "Type": "net user /domain"
+  },
+  {
+    "Text": "root.techint.net",
+    "Type": "Forest"
+  },
+  {
+    "Text": "LDAP://DC=ternium,DC=techint,DC=net",
+    "Type": "Nombre del dominio"
+  },
+  {
+    "Text": "LDAP://DC=ternium,DC=techint,DC=net",
+    "Type": "Nombre del dominio"
+  },
+  {
+    "Text": "",
+    "Type": "setspn -T ternium.techint.net -Q MSSQLSvc/*"
+  }
+]

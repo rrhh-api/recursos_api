@@ -1,0 +1,666 @@
+[
+	{
+		"Text": "/root/kali-wordlists",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/amass",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/dirb",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/dirb/others",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/dirb/stress",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/dirb/vulns",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/dirbuster",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/fern-wifi",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/legion",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/metasploit",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/wfuzz/Injections",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/wfuzz/general",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/wfuzz/others",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/wfuzz/stress",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/wfuzz/vulns",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/wfuzz/webservices",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/.cache",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/amass",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/dirb",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/dirb/others",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/dirb/stress",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/dirb/vulns",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/dirbuster",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/fern-wifi",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/legion",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/metasploit",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/wfuzz/Injections",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/wfuzz/general",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/wfuzz/others",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/wfuzz/stress",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/wfuzz/vulns",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/wfuzz/webservices",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/animals/blue-penguin",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/misc/abstract-wave",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/misc/blender-mesh",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/nature/beach",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/nature/succulents",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/arch-journey",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/arch-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/artix-constellation",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/artix-iceberg",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/artix-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/beastie",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/boiling-microsoft",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/debian-constellation",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/debian-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/endeavour-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/fedora-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/foss-friends",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/gentoo-iceberg",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/gentoo-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/guix-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/kde-asteria",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/kde-chromorama",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/kde-traverse",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/linux-engineering",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/linuxmint-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/manjaro-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/nix-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/nix-snowflake",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/opensuse-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/popos-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/puffy",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/rhel-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/rocky-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/tux-geometric",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/ubuntu-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/void-forbidden-spell",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/void-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/windows-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/.cache",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/amass",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/dirb",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/dirb/others",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/dirb/stress",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/dirb/vulns",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/dirbuster",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/fern-wifi",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/legion",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/metasploit",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/wfuzz/Injections",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/wfuzz/general",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/wfuzz/others",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/wfuzz/stress",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/wfuzz/vulns",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/kali-wordlists/wfuzz/webservices",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/.github/workflows",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/001-trivial",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/002-trivial-libre-office-writer",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/003-pdflatex-image",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/004-pdflatex-4-pages",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/005-libreoffice-writer-password",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/006-pdflatex-outline",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/007-imagemagick-images",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/008-reportlab-inline-image",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/009-pdflatex-geotopo",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/010-pdflatex-forms",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/011-google-doc-document",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/012-libreoffice-form",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/013-reportlab-overlay",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/014-outlines",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/015-arabic",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/016-libre-office-link",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/017-unreadable-meta-data",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/018-base64-image",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/019-grayscale-image",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/020-xmp",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/021-pdfa",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/022-pdfkit",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/023-cmyk-image",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/024-annotations",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/025-attachment",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/sample-files/026-latex-multicolumn",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/animals/blue-penguin",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/misc/abstract-wave",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/misc/blender-mesh",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/nature/beach",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/nature/succulents",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/arch-journey",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/arch-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/artix-constellation",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/artix-iceberg",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/artix-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/beastie",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/boiling-microsoft",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/debian-constellation",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/debian-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/endeavour-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/fedora-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/foss-friends",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/gentoo-iceberg",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/gentoo-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/guix-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/kde-asteria",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/kde-chromorama",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/kde-traverse",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/linux-engineering",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/linuxmint-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/manjaro-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/nix-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/nix-snowflake",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/opensuse-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/popos-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/puffy",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/rhel-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/rocky-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/tux-geometric",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/ubuntu-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/void-forbidden-spell",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/void-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/wallpapers/os/windows-simple",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/.cache",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/.cache",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/.cache",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/.cache",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "/root/.cache",
+		"Type": "FOLDER"
+	}
+]
